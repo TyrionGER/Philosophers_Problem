@@ -1,0 +1,14 @@
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\bin\Debug\net8.0\Philosopher_in_C.exe
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\bin\Debug\net8.0\Philosopher_in_C.deps.json
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\bin\Debug\net8.0\Philosopher_in_C.runtimeconfig.json
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\bin\Debug\net8.0\Philosopher_in_C.dll
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\bin\Debug\net8.0\Philosopher_in_C.pdb
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.AssemblyInfoInputs.cache
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.AssemblyInfo.cs
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.csproj.CoreCompileInputs.cache
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.dll
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\refint\Philosopher_in_C.dll
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.pdb
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\Philosopher_in_C.genruntimeconfig.cache
+C:\Users\lenna\RiderProjects\Philosopher_in_C\Philosopher_in_C\obj\Debug\net8.0\ref\Philosopher_in_C.dll
